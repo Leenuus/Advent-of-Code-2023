@@ -1,3 +1,8 @@
+"""
+[2023 day3 advent of code](https://adventofcode.com/2023/day/3)
+Python solution
+"""
+
 TEST = """467..114..
 ...*......
 ..35..633.
@@ -14,7 +19,8 @@ DEBUG = True
 def tests():
     # res = parse(TEST)
     # part1(TEST)
-    part2(TEST)
+    # part2(TEST)
+    pass
 
 def parse(input: str):
     nums = []
@@ -25,7 +31,7 @@ def parse(input: str):
         i = 0
         while i < len(line):
             if line[i].isdigit():
-                # get the digit
+                # get the digit and its spanning coordinates
                 start = i
                 while i+1 < len(line) and line[i + 1].isdigit():
                     i = i + 1 
@@ -36,7 +42,7 @@ def parse(input: str):
                 num = int(num)
                 nums.append((num, tuple((row, col) for col in range(start, end + 1) )))
             else:
-                # get symbols
+                # get symbols and its coordinate
                 if not line[i].isdigit() and line[i] != '.' :
                     symbols.append(((row, i), line[i]))
                 else:
@@ -116,7 +122,6 @@ def main():
         input = f.read()
     print('Part1: ', part1(input))
     print('Part2: ', part2(input))
-    pass
 
 if __name__ == '__main__':
     main()
