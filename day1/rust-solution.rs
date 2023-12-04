@@ -78,7 +78,9 @@ zoneight234
 fn main() {
     let args: Vec<String> = std::env::args().collect();
     let path = if args.len() == 2 { &args[1]} else { "../input.txt" };
-    let input = read_to_string(path).expect(&format!("Can't find path {path}"));
+    let input = read_to_string(path).unwrap_or_else(
+        |_|  panic!("Can't find path {path}") 
+    );
 
     // part1
     let part1_res = part1(&input);
