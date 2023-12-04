@@ -70,7 +70,6 @@ def part2(input: str):
     return sum(cards) - 1 # remove Card 0
 
 def main():
-    DEBUG = False
     if DEBUG:
         tests()
     else:
