@@ -4,28 +4,78 @@ Just some stupid solutions
 
 ### Progress
 
-- [X] day1
-- [X] day2
-- [X] day3
-- [ ] day4
-- [ ] day5
-- [ ] day6
-- [ ] day7
-- [ ] day8
-- [ ] day9
-- [ ] day10
-- [ ] day11
-- [ ] day12
-- [ ] day13
-- [ ] day14
-- [ ] day15
-- [ ] day16
-- [ ] day17
-- [ ] day18
-- [ ] day19
-- [ ] day20
-- [ ] day21
-- [ ] day22
-- [ ] day23
-- [ ] day24
-- [ ] day25
+- [X] Day1
+    - [X] Python
+    - [X] Rust
+- [X] Day2
+    - [X] Python
+    - [ ] Rust
+- [X] Day3
+    - [X] Python
+    - [ ] Rust
+- [ ] Day4
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day5
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day6
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day7
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day8
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day9
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day10
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day11
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day12
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day13
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day14
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day15
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day16
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day17
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day18
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day19
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day20
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day21
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day22
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day23
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day24
+    - [ ] Python
+    - [ ] Rust
+- [ ] Day25
+    - [ ] Python
+    - [ ] Rust
