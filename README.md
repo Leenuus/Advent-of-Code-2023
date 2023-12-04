@@ -9,7 +9,7 @@ Just some stupid solutions
     - [X] Rust
 - [X] Day2
     - [X] Python
-    - [ ] Rust
+    - [X] Rust
 - [X] Day3
     - [X] Python
     - [ ] Rust
