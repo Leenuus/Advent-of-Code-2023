@@ -16,17 +16,17 @@ Just some stupid solutions
 - [X] Day4
     - [X] Python
     - [ ] Rust
-- [ ] Day5
-    - [ ] Python
+- [X] Day5
+    - [X] Python
     - [ ] Rust
 - [ ] Day6
     - [ ] Python
     - [ ] Rust
-- [ ] Day7
-    - [ ] Python
+- [X] Day7
+    - [X] Python
     - [ ] Rust
-- [ ] Day8
-    - [ ] Python
+- [X] Day8
+    - [X] Python
     - [ ] Rust
 - [ ] Day9
     - [ ] Python
