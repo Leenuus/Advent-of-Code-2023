@@ -28,8 +28,8 @@ Just some stupid solutions
 - [X] Day8
     - [X] Python
     - [ ] Rust
-- [ ] Day9
-    - [ ] Python
+- [X] Day9
+    - [X] Python
     - [ ] Rust
 - [ ] Day10
     - [ ] Python
